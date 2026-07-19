@@ -1,0 +1,15 @@
+# SvelteKit build and dev outputs
+.svelte-kit/
+build/
+
+# Dependency directories
+node_modules/
+
+# Local env files
+.env
+.env.*
+!.env.example
+
+# OS files
+.DS_Store
+Thumbs.db
